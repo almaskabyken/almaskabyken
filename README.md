@@ -17,8 +17,7 @@ I specialize in transforming complex datasets into actionable business insights 
 ## Stack
 
 **Analytics & BI:** Power BI (DAX, Power Query), Product & Business Analytics, Experimentation  
-**Data & Engineering:** Python, SQL, ETL Automation, Data Quality Validation  
-**Machine Learning:** Scikit-learn, PyTorch, XGBoost, LightGBM, CatBoost  
+**Data & Engineering:** Python, SQL, ETL Automation, ML  
 **Cloud:** AWS, Google Cloud
 
 
