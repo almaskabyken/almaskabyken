@@ -24,7 +24,7 @@ I specialize in transforming complex datasets into actionable business insights 
 ## Contact
 LinkedIn: https://www.linkedin.com/in/almas-kabyken-960097176/    
 Email: almas.kabyken.01@gmail.com  
-Telegram: kabyken01  
+Telegram: https://t.me/kabyken01
 
 ---
 
