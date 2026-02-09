@@ -7,7 +7,10 @@ I specialize in transforming complex datasets into actionable business insights 
 
 🎓 MS in Applied Business Analytics — Boston University, USA (2025)  
 🎓 BA in Economics and Business — Narxos University, Kazakhstan (2020)  
-🎓 BS in Computer Science — Nazarbayev University, Kazakhstan (2017)  
+🎓 BS in Computer Science — Nazarbayev University, Kazakhstan (2017)    
+
+📊 Data Scientist — Yandex Practicum      
+📈 CIMA — Performance Management
 
 ---
 
