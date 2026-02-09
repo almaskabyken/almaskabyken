@@ -5,12 +5,14 @@
 Data Analyst with 8+ years of experience working with product, operational, and business data.  
 I specialize in transforming complex datasets into actionable business insights and building scalable analytical solutions.
 
+Education
 🎓 MS in Applied Business Analytics — Boston University, USA (2025)  
 🎓 BA in Economics and Business — Narxos University, Kazakhstan (2020)  
 🎓 BS in Computer Science — Nazarbayev University, Kazakhstan (2017)    
 
-📊 Data Scientist — Yandex Practicum      
-📈 CIMA — Performance Management
+Certifications:
+📊 Data Scientist by Yandex Practicum      
+📈 CIMA (Performance Management)
 
 ---
 
